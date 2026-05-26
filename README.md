@@ -32,14 +32,6 @@ I'm on a journey to becoming a full-stack developer, building on my background i
 
 <hr>
 
-### Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LiebeandSkye&theme=flat&no-bg=true&column=7" alt="Trophies" />
-  </a>
-</p>
-<hr>
-<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LiebeandSkye&base=224&label=PROFILE+VIEWS&style=for-the-badge&color=4CAF50" alt="visitors" />
 </p>
