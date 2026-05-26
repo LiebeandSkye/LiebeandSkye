@@ -17,9 +17,6 @@ I'm on a journey to becoming a full-stack developer, building on my background i
 
 <p align="center">
   <a href="https://github.com/LiebeandSkye">
-    <img src="https://github-readme-stats.vercel.app/api?username=LiebeandSkye&show_icons=true&theme=transparent" alt="LiebeandSkye's GitHub Stats" />
-  </a>
-  <a href="https://github.com/LiebeandSkye">
     <img src="https://streak-stats.demolab.com/?user=LiebeandSkye&theme=transparent" alt="LiebeandSkye's GitHub Streak" />
   </a>
 </p>
