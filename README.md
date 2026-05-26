@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kry Rithisak</h1>
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=200&section=header&text=Kry%20Rithisak&fontSize=42&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 I'm on a journey to becoming a full-stack developer, building on my background in computer science and hands-on experience in web and mobile development 💻. I enjoy turning ideas into code and code into solutions, and I'm always trying to learn more about software engineering and architecture 💡. At the end of the day, I'm just a guy working towards a goal, driven by creativity and a love for technology. 🚀🚀
 
-[![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-4CAF50?style=for-the-badge)](https://portfolio-git-main-kryrithisak-7301s-projects.vercel.app/contact)
+<p align="center">
+  <a href="https://portfolio-git-main-kryrithisak-7301s-projects.vercel.app/contact">
+    <img src="https://img.shields.io/badge/Get%20in%20Touch-4CAF50?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
+  </a>
+  <a href="https://kryrithisak-one-eosin-68.vercel.app">
+    <img src="https://img.shields.io/badge/My%20Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="My Portfolio" />
+  </a>
+</p>
 
 <hr>
 
@@ -13,7 +22,7 @@ I'm on a journey to becoming a full-stack developer, building on my background i
 
 <hr>
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/LiebeandSkye">
@@ -22,8 +31,15 @@ I'm on a journey to becoming a full-stack developer, building on my background i
 </p>
 
 <hr>
-<br>
 
+### Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LiebeandSkye&theme=flat&no-bg=true&column=7" alt="Trophies" />
+  </a>
+</p>
+<hr>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LiebeandSkye&base=224&label=PROFILE+VIEWS&style=for-the-badge&color=4CAF50" alt="visitors" />
 </p>
