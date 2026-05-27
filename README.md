@@ -5,10 +5,10 @@
 I'm on a journey to becoming a full-stack developer, building on my background in computer science and hands-on experience in web and mobile development 💻. I enjoy turning ideas into code and code into solutions, and I'm always trying to learn more about software engineering and architecture 💡. At the end of the day, I'm just a guy working towards a goal, driven by creativity and a love for technology. 🚀🚀
 
 <p align="center">
-  <a href="https://kryrithisak.vercel.app/contact">
+  <a href="https://kryrithisak.vercel.app/contact" target="_blank">
     <img src="https://img.shields.io/badge/Get%20in%20Touch-4CAF50?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
   </a>
-  <a href="https://kryrithisak.vercel.app">
+  <a href="https://kryrithisak.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="My Portfolio" />
   </a>
 </p>
