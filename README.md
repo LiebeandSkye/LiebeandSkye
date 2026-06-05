@@ -2,17 +2,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=200&section=header&text=Kry%20Rithisak&fontSize=42&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<img align="right" width="30%" style="" src="https://imgs.search.brave.com/T3UXMH1_1PYprd-PQ0VQWoAYBSvH2YfgyIwk9gBZ5nA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vcHNRekZISWtv/NE1BQUFBZC9zdHVk/eS1hbmltZS5naWY.gif" />
-
-I'm on a journey to becoming a full-stack developer, building on my background in computer science and hands-on experience in web and mobile development 💻. I enjoy turning ideas into code and code into solutions, and I'm always trying to learn more about software engineering and architecture 💡. At the end of the day, I'm just a guy working towards a goal, driven by creativity and a love for technology. 🚀🚀
-
-<br clear="both" />
+<table>
+  <tr>
+    <td width="64%" valign="middle">
+      I'm on a journey to becoming a full-stack developer, building on my background in computer science and hands-on experience in web and mobile development 💻. I enjoy turning ideas into code and code into solutions, and I'm always trying to learn more about software engineering and architecture 💡. At the end of the day, I'm just a guy working towards a goal, driven by creativity and a love for technology. 🚀🚀
+    </td>
+    <td width="36%" align="center">
+      <img width="260" src="https://imgs.search.brave.com/T3UXMH1_1PYprd-PQ0VQWoAYBSvH2YfgyIwk9gBZ5nA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vcHNRekZISWtv/NE1BQUFBZC9zdHVk/eS1hbmltZS5naWY.gif" alt="Study animation" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://kryrithisak.vercel.app/contact" target="_blank">
+  <a href="https://portfolio-git-main-kryrithisak-7301s-projects.vercel.app/contact">
     <img src="https://img.shields.io/badge/Get%20in%20Touch-4CAF50?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
   </a>
-  <a href="https://kryrithisak.vercel.app" target="_blank">
+  <a href="https://kryrithisak-one-eosin-68.vercel.app">
     <img src="https://img.shields.io/badge/My%20Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="My Portfolio" />
   </a>
 </p>
@@ -30,7 +35,7 @@ I'm on a journey to becoming a full-stack developer, building on my background i
 
 <p align="center">
   <a href="https://github.com/LiebeandSkye">
-    <img src="https://streak-stats.demolab.com/?user=LiebeandSkye&theme=transparent" alt="LiebeandSkye's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=LiebeandSkye&theme=github-dark-blue" alt="LiebeandSkye's GitHub Streak" />
   </a>
 </p>
 
