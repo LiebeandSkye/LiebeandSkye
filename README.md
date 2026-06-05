@@ -23,13 +23,13 @@
 </p>
 
 
-### Technologies I've Worked With:
+## **Technologies I've Worked With:**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-80B5FF?style=for-the-badge&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Capcut](https://img.shields.io/badge/Capcut-E6E6E6?style=for-the-badge&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### GitHub Stats
+## **GitHub Stats**
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LiebeandSkye&theme=transparent&border_radius=4.3" alt="GitHub Streak" /></a>
@@ -38,7 +38,7 @@
 
 ## **Contact**
 
-<a href="https://github.com/LiebeandSkye"><img align="right" width="100" height="100" src="https://imgs.search.brave.com/ZsGfn-csyZ1Wr8cPeLJeFdwJJtJvk7-Nk4PgtEu0_78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xNC83/My9ReExuekQuanBn" style=" margin-left: 10px;" /></a> **Please Contact me on Discord for a quick
+<a href="https://github.com/LiebeandSkye"><img align="right" width="100" src="https://imgs.search.brave.com/ZsGfn-csyZ1Wr8cPeLJeFdwJJtJvk7-Nk4PgtEu0_78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xNC83/My9ReExuekQuanBn" style=" margin-left: 10px;" /></a> **Please Contact me on Discord for a quick
 response:** [i_amthe0newhoasked](https://discord.com/users/678458464552353793)
 
 **You can also email me here:** [kryrithisak@gmail.com](mailto:kryrithisak@gmail.com)
