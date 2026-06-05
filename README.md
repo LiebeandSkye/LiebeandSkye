@@ -9,10 +9,10 @@ I'm on a journey to becoming a full-stack developer, building on my background i
 <br clear="both" />
 
 <p align="center">
-  <a href="https://portfolio-git-main-kryrithisak-7301s-projects.vercel.app/contact">
+  <a href="https://kryrithisak.vercel.app/contact" target="_blank">
     <img src="https://img.shields.io/badge/Get%20in%20Touch-4CAF50?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
   </a>
-  <a href="https://kryrithisak-one-eosin-68.vercel.app">
+  <a href="https://kryrithisak.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="My Portfolio" />
   </a>
 </p>
