@@ -2,16 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=200&section=header&text=Kry%20Rithisak&fontSize=42&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<table>
-  <tr>
-    <td width="70%">
-      I'm on a journey to becoming a full-stack developer, building on my background in computer science and hands-on experience in web and mobile development 💻. I enjoy turning ideas into code and code into solutions, and I'm always trying to learn more about software engineering and architecture 💡. At the end of the day, I'm just a guy working towards a goal, driven by creativity and a love for technology. 🚀🚀
-    </td>
-    <td width="30%" align="center">
-      <img src="https://imgs.search.brave.com/T3UXMH1_1PYprd-PQ0VQWoAYBSvH2YfgyIwk9gBZ5nA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vcHNRekZISWtv/NE1BQUFBZC9zdHVk/eS1hbmltZS5naWY.gif" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img align="right" width="30%" style="" src="https://imgs.search.brave.com/T3UXMH1_1PYprd-PQ0VQWoAYBSvH2YfgyIwk9gBZ5nA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vcHNRekZISWtv/NE1BQUFBZC9zdHVk/eS1hbmltZS5naWY.gif" />
+
+I'm on a journey to becoming a full-stack developer, building on my background in computer science and hands-on experience in web and mobile development 💻. I enjoy turning ideas into code and code into solutions, and I'm always trying to learn more about software engineering and architecture 💡. At the end of the day, I'm just a guy working towards a goal, driven by creativity and a love for technology. 🚀🚀
+
+<br clear="both" />
 
 <p align="center">
   <a href="https://portfolio-git-main-kryrithisak-7301s-projects.vercel.app/contact">
