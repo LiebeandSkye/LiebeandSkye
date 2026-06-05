@@ -38,7 +38,7 @@
 
 ## **Contact**
 
-<a href="https://github.com/LiebeandSkye"><img align="right" width="100" src="https://imgs.search.brave.com/ZsGfn-csyZ1Wr8cPeLJeFdwJJtJvk7-Nk4PgtEu0_78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xNC83/My9ReExuekQuanBn" style=" margin-left: 10px;" /></a> **Please Contact me on Discord for a quick
+<a href="https://github.com/LiebeandSkye"><img align="right" width="120" src="https://imgs.search.brave.com/ZsGfn-csyZ1Wr8cPeLJeFdwJJtJvk7-Nk4PgtEu0_78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xNC83/My9ReExuekQuanBn" style=" margin-left: 10px;" /></a> **Please Contact me on Discord for a quick
 response:** [i_amthe0newhoasked](https://discord.com/users/678458464552353793)
 
 **You can also email me here:** [kryrithisak@gmail.com](mailto:kryrithisak@gmail.com)
