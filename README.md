@@ -39,6 +39,19 @@
 
 <hr>
 
+## **Contact**
+
+<a href="https://github.com/DikaArdnt"><img align="right" width="100" height="100" src="https://imgs.search.brave.com/QaMOJXgyEiVTVqooV56pJK7fjLfnpqejbXhbvAWJHcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nYWxh/eHlwZnAuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzEw/L2t1cnVtaS10b2tp/c2FraS1wZnAtYWVz/dGhldGljLndlYnA" /></a> **Please Contact me on Discord for a quick
+response:** [i_amthe0newhoasked](https://discord.com/users/678458464552353793)
+
+**You can also email me here:** [kryrithisak@gmail.com](mailto:kryrithisak@gmail.com)
+
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/678458464552353793)
+[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/Kattt69)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mail@kryrithisak@gmail.com)
+
+<br>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LiebeandSkye&base=224&label=PROFILE+VIEWS&style=for-the-badge&color=4CAF50" alt="visitors" />
 </p>
