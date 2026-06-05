@@ -34,9 +34,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/LiebeandSkye">
-    <img src="https://streak-stats.demolab.com?user=LiebeandSkye&theme=github-dark-blue" alt="LiebeandSkye's GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LiebeandSkye&theme=transparent&border_radius=4.3" alt="GitHub Streak" /></a>
 </p>
 
 <hr>
