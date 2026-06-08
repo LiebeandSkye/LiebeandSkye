@@ -6,16 +6,6 @@
 
   I'm on a journey to becoming a full-stack developer, building on my background in computer science and hands-on experience in web and mobile development 💻. I enjoy turning ideas into code and code into solutions, and I'm always trying to learn more about software engineering and architecture 💡. At the end of the day, I'm just a guy working towards a goal, driven by creativity and a love for technology. 🚀🚀
 
-<br>
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LiebeandSkye&base=224&label=PROFILE+VIEWS&style=for-the-badge&color=4CAF50" alt="visitors" />
-</p>
-
-
-
-
-
 <p align="center">
   <a href="https://portfolio-git-main-kryrithisak-7301s-projects.vercel.app/contact">
     <img src="https://img.shields.io/badge/Get%20in%20Touch-4CAF50?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
