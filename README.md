@@ -27,7 +27,7 @@
 ## **GitHub Stats**
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LiebeandSkye&theme=transparent&border_radius=4.3" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LiebeandSkye&theme=transparent&border_radius=4.3" alt="MY GITHUB STREAK IS NOT LOADING WHYYYYYYY😭😭😭" /></a>
 </p>
 
 
