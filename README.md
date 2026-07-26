@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Get%20in%20Touch-4CAF50?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
   </a>
   <a href="https://kryrithisak-one-eosin-68.vercel.app">
-    <img src="https://img.shields.io/badge/My%20Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/My%20Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="my portfolio" />
   </a>
 </p>
 
